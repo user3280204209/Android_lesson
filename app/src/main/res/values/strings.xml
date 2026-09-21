@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">America</string>
+    <string name="button">Click Me</string>
+    <string name="textView">Hello World!</string>
+    <string name="clicked">I am clicked!</string>
+</resources>
