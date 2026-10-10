@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lesson_3</string>
+    <string name="dynamic_text_view">动态添加的 TextView %1$d</string>
+    <string name="query">查询</string>
+    <string name="result_default">选择特性后点击查询</string>
+    <string name="lang_c">C</string>
+    <string name="lang_python">Python</string>
+    <string name="lang_kotlin">Kotlin</string>
+    <string name="lang_java">Java</string>
+    <string name="lang_unknown">未知</string>
+    <string-array name="features">
+        <item>快速</item>
+        <item>容易</item>
+        <item>新语言</item>
+        <item>面向对象</item>
+    </string-array>
+</resources>
