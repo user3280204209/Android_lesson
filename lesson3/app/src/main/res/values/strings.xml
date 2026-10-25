@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">李浩铭2024080616</string>
+
+    <!-- MainActivity -->
+    <string name="btn_forward">正向传参</string>
+    <string name="btn_return">返回数据</string>
+    <string name="btn_camera">相机拍照</string>
+    <string name="btn_stopwatch">秒表计时</string>
+    <string name="result_default">点击“返回数据”后，结果显示在这里</string>
+    <string name="return_result">MainActivity 收到的返回数据：%1$s</string>
+
+    <!-- FirstActivity：正向传参 -->
+    <string name="forward_value">这是从 MainActivity 正向传递的参数</string>
+    <string name="received_param">第一个二级 Activity 接收到的参数：\n%1$s</string>
+
+    <!-- SecondActivity：返回数据 -->
+    <string name="input_hint">请输入要返回给 MainActivity 的内容</string>
+    <string name="btn_confirm">确定并返回</string>
+
+    <!-- ThirdActivity：相机拍照 -->
+    <string name="btn_take_photo">拍照</string>
+    <string name="photo_hint">拍照成功后，照片显示在这里</string>
+    <string name="no_camera">未检测到相机应用</string>
+
+    <!-- FourthActivity：秒表 -->
+    <string name="btn_start">开始</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_reset">重置</string>
+</resources>
