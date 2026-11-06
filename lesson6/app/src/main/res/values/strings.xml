@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">李浩铭2024080616</string>
+    <string name="avatar_description">头像</string>
+
+    <!-- 底部导航 -->
+    <string name="nav_profile">个人信息</string>
+    <string name="nav_game_two">两张牌</string>
+    <string name="nav_game_three">三张牌</string>
+
+    <!-- 个人信息 -->
+    <string name="label_name">姓名</string>
+    <string name="label_gender">性别</string>
+    <string name="label_student_id">学号</string>
+    <string name="label_phone">电话</string>
+    <string name="label_email">邮件地址</string>
+    <string name="label_hobbies">爱好</string>
+    <string name="label_high_score_two">两张牌最高分</string>
+    <string name="label_high_score_three">三张牌最高分</string>
+    <string name="hobby_separator">、</string>
+    <string name="student_id_format">学号：%1$s</string>
+    <string name="btn_edit_info">修改个人信息</string>
+    <string name="profile_saved">个人信息已保存</string>
+    <string name="profile_save_hint">个人信息会自动保存，退出应用后重新打开可恢复</string>
+
+    <string name="default_name">李浩铭</string>
+    <string name="default_student_id">2024080616</string>
+    <string name="default_phone">13800000000</string>
+    <string name="default_email">lihaoming@example.com</string>
+
+    <!-- 选项菜单与关于对话框 -->
+    <string name="menu_about">关于</string>
+    <string name="dialog_about_title">关于本应用</string>
+    <string name="dialog_about_message">实验六：多Fragment应用\n开发：%1$s\n包含个人信息、两张牌翻牌游戏、三张牌翻牌游戏；个人信息和游戏进度均使用对象序列化保存。</string>
+    <string name="dialog_about_ok">确定</string>
+
+    <!-- 信息修改 -->
+    <string name="title_info_edit">信息修改</string>
+    <string name="hint_name">姓名</string>
+    <string name="hint_student_id">学号</string>
+    <string name="hint_phone">电话号码</string>
+    <string name="hint_email">电子邮件地址</string>
+    <string name="gender_male">男</string>
+    <string name="gender_female">女</string>
+    <string name="hobby_travel">旅游</string>
+    <string name="hobby_reading">阅读</string>
+    <string name="hobby_game">游戏</string>
+    <string name="hobby_shopping">购物</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_cancel">取消</string>
+    <string name="error_name_empty">姓名不能为空</string>
+    <string name="error_phone_empty">电话号码不能为空</string>
+    <string name="error_phone_invalid">电话号码应为 11 位数字</string>
+
+    <!-- 翻牌游戏 -->
+    <string name="score_format">得分：%1$d</string>
+    <string name="card_back">?</string>
+    <string name="game_hint_two">每轮翻开 2 张牌，点数或花色相同即可匹配</string>
+    <string name="game_hint_three">每轮翻开 3 张牌，点数或花色相同即可匹配</string>
+    <string name="btn_reset">重置游戏</string>
+    <string name="btn_save_progress">保存进度</string>
+    <string name="progress_saved">游戏进度已保存</string>
+    <string name="state_new_game">本局为新游戏，离开本页时自动保存进度</string>
+    <string name="state_restored">已恢复上次保存的游戏进度</string>
+    <string name="card_description">第%1$d张牌</string>
+</resources>
