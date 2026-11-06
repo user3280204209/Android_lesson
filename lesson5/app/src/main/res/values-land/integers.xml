@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 横屏：30 张牌，15 列 × 2 行 -->
+    <integer name="card_count">30</integer>
+    <integer name="grid_columns">15</integer>
+</resources>

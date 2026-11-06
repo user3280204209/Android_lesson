@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">李浩铭2024080616</string>
+    <string name="avatar_description">头像</string>
+
+    <!-- 主界面 -->
+    <string name="label_name">姓名</string>
+    <string name="label_gender">性别</string>
+    <string name="label_student_id">学号</string>
+    <string name="label_phone">电话</string>
+    <string name="label_email">邮件地址</string>
+    <string name="label_hobbies">爱好</string>
+    <string name="label_high_score">游戏最高分</string>
+    <string name="hobby_separator">、</string>
+    <string name="student_id_format">学号：%1$s</string>
+    <string name="btn_edit_info">修改个人信息</string>
+    <string name="btn_play_game">翻牌游戏</string>
+
+    <string name="default_name">李浩铭</string>
+    <string name="default_student_id">2024080616</string>
+    <string name="default_phone">13800000000</string>
+    <string name="default_email">lihaoming@example.com</string>
+
+    <!-- 选项菜单与关于对话框 -->
+    <string name="menu_about">关于</string>
+    <string name="dialog_about_title">关于本应用</string>
+    <string name="dialog_about_message">实验五：RecyclerView 翻牌游戏\n开发：%1$s\n玩法：每轮翻开 3 张牌，花色或点数相同即可匹配；支持横竖屏不同牌数。</string>
+    <string name="dialog_about_ok">确定</string>
+
+    <!-- 信息修改 -->
+    <string name="title_info_edit">信息修改</string>
+    <string name="hint_name">姓名</string>
+    <string name="hint_student_id">学号</string>
+    <string name="hint_phone">电话号码</string>
+    <string name="hint_email">电子邮件地址</string>
+    <string name="gender_male">男</string>
+    <string name="gender_female">女</string>
+    <string name="hobby_travel">旅游</string>
+    <string name="hobby_reading">阅读</string>
+    <string name="hobby_game">游戏</string>
+    <string name="hobby_shopping">购物</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_cancel">取消</string>
+    <string name="error_name_empty">姓名不能为空</string>
+    <string name="error_phone_empty">电话号码不能为空</string>
+    <string name="error_phone_invalid">电话号码应为 11 位数字</string>
+
+    <!-- 翻牌游戏 -->
+    <string name="title_card_game">翻牌游戏</string>
+    <string name="score_format">得分：%1$d</string>
+    <string name="card_back">?</string>
+    <string name="game_hint">每轮翻开 3 张牌，花色或点数相同即可匹配</string>
+    <string name="btn_reset">重置游戏</string>
+    <string name="btn_exit">退出</string>
+    <string name="game_over">恭喜，全部卡片已匹配！</string>
+    <string name="no_more_moves">没有可以匹配的三张牌了，请重置游戏</string>
+    <string name="card_description">第%1$d张牌</string>
+</resources>
